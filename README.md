@@ -1,0 +1,2 @@
+# Mai
+DiscordSRV Assistant Mai
